@@ -95,7 +95,6 @@ Cypress, Cucumber, Node.js, ESLint, Multiple Cucumber HTML Reporter
 - Escenarios independientes
 - Nombres descriptivos y claros
 - Pruebas de UI y API separadas
-- Reportes detallados con screenshots
 
 ## GENERAR REPORTE
 
