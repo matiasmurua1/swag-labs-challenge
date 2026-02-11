@@ -14,7 +14,7 @@ REQUISITOS
 
 INSTALACION RAPIDA.
 
-git clone [URL-del-repositorio]
+git clone https://github.com/matiasmurua1/swag-labs-challenge.git
 cd swag-labs-challenge
 npm install
 
