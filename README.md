@@ -103,7 +103,6 @@ npm run test:report
 ```
 El reporte HTML se genera en `cucumber-report.html`
 
-
 AUTOR: MURUA MARTINEZ MATIAS NAHUEL  
 Email: murua.matias.96@gmail.com  
 Versión: 1.0.0 - Febrero 2026
