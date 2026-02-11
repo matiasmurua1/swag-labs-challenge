@@ -12,7 +12,7 @@ REQUISITOS
 - Chrome instalado
 - Visual Studio Code (opcional)
 
-INSTALACION RAPIDA
+INSTALACION RAPIDA.
 
 git clone [URL-del-repositorio]
 cd swag-labs-challenge
